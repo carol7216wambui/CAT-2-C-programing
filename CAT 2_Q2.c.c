@@ -1,3 +1,8 @@
+/*
+      Name:Carol Wambui Ngacha
+      Reg no. CT102/G/23184/24
+      BBIT   
+*/
 1.An array data structure is an ordered collection of finite element of same data type stored in contiguous memory location which allows efficient access to its elements using an index.
 
 2.
